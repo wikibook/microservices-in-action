@@ -1,0 +1,8 @@
+flask
+gunicorn==19.9.0
+nose
+gevent
+marshmallow
+requests
+tenacity
+cachetools
